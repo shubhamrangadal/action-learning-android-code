@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyGaurdian</string>
+    <string name="title_activity_all_set_screen">AllSetScreen</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_sign_up_screen">SignUpScreen</string>
+    <string name="title_activity_permission_screen">PermissionScreen</string>
+
+    <string name="accessibility_desc">Accessivility description</string>
+</resources>
